@@ -1,4 +1,4 @@
-# 🤖 LangChain Agent with Gemini & Wikipedia – Streamlit App
+# 🤖 LangChain Agent Using Math & Wikipedia – Streamlit App
 
 This project is a simple Streamlit web application that integrates **LangChain**, **Google Gemini (via `langchain_google_genai`)**, and **Wikipedia** tools to generate intelligent and structured responses to user queries.
 
