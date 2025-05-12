@@ -1,0 +1,9 @@
+numexpr
+wikipedia
+langchain-experimental
+langchain-community
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
